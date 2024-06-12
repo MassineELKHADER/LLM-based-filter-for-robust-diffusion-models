@@ -13,4 +13,6 @@ This Streamlit app allows users to generate images based on prompts using variou
 To run the app locally, use the following command:
 python3 -m streamlit run app.py
 
+## Acknowledgments
 
+We would like to express our gratitude to the open-source community of [Thales](https://github.com/thalesgroup) for their support.
